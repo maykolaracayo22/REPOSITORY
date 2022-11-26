@@ -1,0 +1,3 @@
+com\mitocode\dao\CRUD.class
+com\mitocode\dao\PersonaDAO.class
+com\mitocode\model\Persona.class
